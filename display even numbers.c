@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 int main()
 {
 int a,b,c;
@@ -10,4 +11,5 @@ if(a%2==0)
 printf("\n%d",a);
 }
 return 0;
+  getch();
 }
