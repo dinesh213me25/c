@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include,conio.h>
 
 int main(void) 
 {
@@ -15,4 +16,5 @@ int main(void)
 	}
 	printf("\nno of words=%d",count);
 	return 0;
+	getch();
 }
