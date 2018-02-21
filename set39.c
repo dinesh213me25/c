@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<conio.h>
 
 int main(void) 
 {
@@ -20,4 +21,5 @@ int main(void)
 	}
 	printf("\nthe maximum of the numbers is:%d",max);
 	return 0;
+	getch();
 }
