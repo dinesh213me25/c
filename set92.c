@@ -2,7 +2,8 @@
 #include <stdio.h>
 #include<conio.h>
 
-int main(void) 
+
+void main(void) 
 {
 	int n,array[50],i,sum=0;
 	scanf("%d",&n);
